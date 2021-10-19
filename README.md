@@ -1,2 +1,2 @@
 # MyCV
-My CV page made by HTML and CSS.
+The CV page is made with HTML and CSS.
